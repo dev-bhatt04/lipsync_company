@@ -1,0 +1,8 @@
+
+.codegpt
+*.pkl
+*.pth
+*.onnx
+checkpoints/
+results/
+
